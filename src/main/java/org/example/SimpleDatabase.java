@@ -64,13 +64,5 @@ class Main{
                         break;
             }
         }
-//        logger.info(db.getConnection());
-//        System.out.println(db.getConnection());
-//        SimpleDatabase db1 = SimpleDatabase.getInstance("Yash-Database");
-//        System.out.println(db1.getConnection());
-//        db.newConnection("ranjith");
-//        System.out.println(db.getConnection());
-//        System.out.println(db1.getConnection());
-//        db.closeConnection();
     }
 }
